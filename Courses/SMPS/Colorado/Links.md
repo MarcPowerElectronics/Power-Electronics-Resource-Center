@@ -1,5 +1,5 @@
 [Master Directory]:           https://www.colorado.edu/ecee/academics/online-programs/ms-ece-coursera/curriculum/course-list#power-electronics
-[Master]:                     https://www.colorado.edu/ecee/academics/online-programs/ms-ece-coursera#admission
+[Master Overview]:            https://www.colorado.edu/ecee/academics/online-programs/ms-ece-coursera#admission
 [Master Coursera]:            https://www.coursera.org/degrees/msee-boulder
 [Presentation]:               https://www.youtube.com/watch?v=KalAhIj4ODA
 
