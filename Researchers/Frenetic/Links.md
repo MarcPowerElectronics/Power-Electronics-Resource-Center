@@ -1,1 +1,1 @@
-[Youtube]: https://www.youtube.com/@Frenetic_ai/featured
+[Youtube]: https://www.youtube.com/@Frenetic_ai/playlists
