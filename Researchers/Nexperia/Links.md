@@ -1,1 +1,1 @@
-[Website]: https://www.nexperia.com/
+[Website]: https://www.nexperia.com/search
