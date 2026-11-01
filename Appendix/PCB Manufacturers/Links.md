@@ -6,3 +6,5 @@
 [Safe]:         https://www.safe-pcb.com/safe_pcb/
 [PCBgogo]:      https://www.pcbgogo.com/
 [2CI]:          https://www.2cisa.com/
+[Desay SV]:     https://en.desaysv.com/
+[Lab Circuits]: https://www.lab-circuits.com/es/
